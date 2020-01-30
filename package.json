@@ -1,0 +1,18 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marloncosta29/rest-api.git",
+  "author": "marloncosta29 <marlon.29@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.ts",
+    "build": ""
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "sucrase": "^3.12.1",
+    "typescript": "^3.7.5"
+  }
+}
